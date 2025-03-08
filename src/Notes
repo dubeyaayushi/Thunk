@@ -1,0 +1,11 @@
+axios:
+Requests to an API end point 
+
+
+redux-thunk 
+define async action creators
+redux-thunk library is basically a  middleware
+
+
+jab hum thunk use karte hai to zaruri ni hai ki hum ek object ko he dispatch karte
+jum uski jagah ek function ko bhi dispatch kar sakte hai
